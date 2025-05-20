@@ -31,3 +31,12 @@ def say_hi(third_name, location):
     return f"Hello, {third_name}! You are at {location}."
 print(say_hi("Bob", "London"))
 
+
+
+
+
+def adder(num1, num2):
+    return num1 + num2
+
+add_2_2 = adder(2, 2)
+print(add_2_2)
